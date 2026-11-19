@@ -2,7 +2,7 @@
 
 A full-stack Kanban board for managing tasks and teams — built with React, Node.js, Express, and MongoDB.
 
-🔗 **Live Demo:** [taskkfloww.vercel.app](https://taskkfloww.vercel.app)
+🔗 **Live Demo:** 
 
 ---
 
@@ -36,13 +36,9 @@ A full-stack Kanban board for managing tasks and teams — built with React, Nod
 - Node.js 18+
 - A MongoDB Atlas connection string (or local MongoDB)
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/Vedant24v/taskflow.git
-cd taskflow
-```
 
-### 2. Install dependencies
+
+### 1. Install dependencies
 ```bash
 # Root (frontend + backend deps)
 npm install
@@ -118,6 +114,3 @@ taskflow/
 
 ---
 
-## License
-
-MIT
